@@ -29,106 +29,13 @@
             <version>3.11.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jdbc</artifactId>
-        </dependency>
 
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-sql-starter</artifactId>
-            <version>3.11.0</version>
-            <!-- use the same version as your Camel core version -->
-        </dependency>
-
-        <!--<dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-mail-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>-->
-
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-jsonpath-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>
-
-
-        <!--<dependency>
-            <groupId>org.apache.camel</groupId>
-            <artifactId>camel-jetty</artifactId>
-            <version>3.11.0</version>
-        </dependency>-->
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.33</version>
-            <scope>runtime</scope>
-        </dependency>
-
-
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-jackson-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-kafka-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>
-
-
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-jaxb-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>
 
         <dependency>
         <groupId>org.apache.camel.springboot</groupId>
         <artifactId>camel-timer-starter</artifactId>
         <version>3.11.0</version>
     </dependency>
-
-
-
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
-            <version>5.2.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml</artifactId>
-            <version>5.2.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.jxls</groupId>
-            <artifactId>jxls-jexcel</artifactId>
-            <version>1.0.9</version>
-        </dependency>
-        <dependency>
-            <groupId>org.dhatim</groupId>
-            <artifactId>fastexcel-reader</artifactId>
-            <version>0.15.3</version>
-        </dependency>
-        <dependency>
-            <groupId>org.dhatim</groupId>
-            <artifactId>fastexcel</artifactId>
-            <version>0.15.3</version>
-        </dependency>
-
-
-        <dependency>
-            <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-mail-starter</artifactId>
-            <version>3.11.0</version>
-        </dependency>
-
-
 
 
         <dependency>
